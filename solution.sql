@@ -30,7 +30,7 @@ select city,edition,athlete,noc from olimpic_medals
 where medal='Gold' and event_gender='M' and event='100m'
 order by edition desc
 
-![Image alt](https://github.com/KatyaEvdokimova/sql/blob/main/1.PNG)
+ОТВЕТ:файл 1.PNG
 
 
 
